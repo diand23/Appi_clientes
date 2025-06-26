@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+python-dotenv
+nest_asyncio
+pymongo
+uvicorn
+psycopg2-binary
