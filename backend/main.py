@@ -205,6 +205,6 @@ class CRM:
 
 
 if __name__ == "__main__":
-    db_path = r"C:/Users/merlo/OneDrive/Desktop/clientes/data/datos_clientes.db"
+    db_path = r"C:/Users/merlo/OneDrive/Desktop/Appi_clientes/data/datos_clientes.db"
     crm = CRM(db_path)
     crm.menu()
